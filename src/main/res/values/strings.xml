@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2019. TYONLINE TECHNOLOGY PTY. LTD. (TYOLAB)
+  ~
+  -->
+
+<resources>
+    <!-- Login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>mustache
+    <string name="error_incorrect_password">Your password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="log_in">Log In</string>
+
+    <string name="steghide">Steghide</string>
+    <string name="steghide_where_to_hide">Hide Secret In This Image</string>
+    <string name="steghide_what_to_hide">Hide This File As Secret</string>
+    <string name="steghide_reveal">Reveal Secret</string>
+    <string name="decrypting">Decrypting</string>
+    <string name="encrypting">Encrypting</string>
+    <string name="detecting">Detecting</string>
+    <string name="hiding">Hiding</string>
+    <string name="secret">Secret</string>
+    <string name="choose_file">Choose a file / image </string>
+    <string name="where_your_secret_to_be_hidden_to">Where your secret to be hidden to</string>
+    <string name="pick_your_secret_file">Pick your secret file</string>
+    <string name="open_file_manager">Go to secret folder</string>
+    <string name="copy_file_to_unsafe_zone">Copy Secret to Unsafe-Zone</string>
+    <string name="go_to_unsafe_zone">Copy Secret to Unsafe-Zone</string>
+    <string name="open_gallery_app">Pick a cover image</string>
+    <string name="the_image_where_you_wanna_hide_your_secret_to">Below will show the image that you want to hide your secret to:</string>
+    <string name="choose_what_do_you_want_to_do">Choose an operation</string>
+    <string name="hint_now_you_need_to_choose_what_to_hide">Your cover image</string>
+    <string name="hint_now_you_need_to_choose_where_to_hide">Now choose where to hide</string>
+    <string name="export">Export</string>
+    <string name="hide_another_one">Hide Another Secret</string>
+    <string name="share">Share</string>
+    <string name="oops_something_wrong">Oops, something is not right</string>
+    <string name="error_export">Oops, something not right. \\n Sorry, this operation goes wrong, please go to the external storage for the steghided photo.</string>
+    <string name="open_amazing_photos">Go to the HiLAP folder</string>
+    <string name="no_secret_found">No secret found</string>
+    <string name="open_folder">Open Folder</string>
+    <string name="passcode">Passcode</string>
+
+    <string name="security">Security</string>
+    <string name="passcode_tip">Enter a passcode of 6 digits</string>
+    <string name="skip">Skip</string>
+    <string name="question_passcode_protected">Is this image passcode protected?</string>
+    <string name="question_passcode_security">Would you like to set up a passcode for security?</string>
+    <string name="job_done">Job completed</string>
+    <string name="steghide_success">Your secret has been successfully hidden inside the image as shown below.</string>
+    <string name="steghide_failed">Oops, something went wrong, please try again or send an email to our developer.</string>
+    <string name="error_title">Error</string>
+    <string name="error_file_too_big">Your secret file is too big. Please make sure the size of your file is less than %d bytes.</string>
+
+    <!-- MEMBER -->
+    <string name="toast_already_member">Thanks so much. You are already a member.</string>
+
+    <!-- PURCHASE -->
+    <string name="alert_already_purchased">Item is already purchased</string>
+
+    <string name="error_no_skus">We didn\'t find any SKUs to display&#8230; Check your internet
+        connection and make sure your Google Developer Console was setup correctly.</string>
+    <string name="error_billing_unavailable">Billing unavailable. Make sure your Google Play app
+        is setup correctly</string>
+    <string name="error_billing_default">Billing unavailable. Please check your device.</string>
+
+    <string name="hilap_club_shop">HiLAP Club Shop</string>
+    <string name="button_purchase">Go to the HiLAP Club Shop</string>
+    <string name="button_buy">Join</string>
+    <string name="button_own">Switch</string>
+    <string name="button_update">Update</string>
+    <string name="button_change">Change</string>
+    <string name="button_lifetime_member">Lifetime Member</string>
+    <string name="lifetime_member_desc">Agent, your status is valid, please continue your mission and stay safe.</string>
+
+    <string name="header_inapp">One-off Membership Fee</string>
+    <string name="header_subscriptions">Member Subscriptions</string>
+
+    <string name="content_description_app_loading_image">App loading image</string>
+    <string name="content_desc_free_vs_premium_indicator">Free or Premium Image Indicator</string>
+
+    <!-- ALERT DIALOG -->
+    <string name="error">Error</string>
+
+    <string name="message_file_too_big">Your secret file is too big. Please make sure the size of the file is less than 8kb.</string>
+    <string name="message_error_steghide">There is something wrong with this operation. Please try to use a smaller image or a smaller file to hide.</string>
+    <string name="message_error_reveal">Oops, something is not right. We can\\\'t recover the secret for you.</string>
+    <string name="message_error_export">There is something wrong with this operation. Please go to external storage for the stego photo(s).</string>
+    <string name="message_membership_required">To hide the file of this size, a valid membership subscription is required. Would you like to become a member now?</string>
+    <string name="title_membership_required">Membership Required</string>
+    <string name="enrol">Become a Member</string>
+    <string name="hilap_club">The HiLAP Club Shop</string>
+    <string name="subscribed">Subscribed</string>
+    <string name="button_upgrade">Upgrade</string>
+    <string name="one">1</string>
+    <string name="step_one">Step One</string>
+    <string name="two">2</string>
+    <string name="step_two">Step Two</string>
+    <string name="toast_in_progress">Data is being processed, it may take a while to finish. Please feel free to use other Apps.</string>
+    <string name="or_input_text_below">Or put your text below</string>
+    <string name="operations">Operations</string>
+    <string name="about_me">About Me</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="agent">Agent</string>
+    <string name="name">Name</string>
+    <string name="choose_an_operation">Choose an Operation</string>
+    <string name="id">ID</string>
+    <string name="level">Level</string>
+    <string name="experience">Experience</string>
+    <string name="special_agent">Special Agent</string>
+    <string name="reveal">Reveal</string>
+    <string name="clear_secret_file">Clear It</string>
+    <string name="set_main_passcode">Set A Main Passcode</string>
+    <string name="image">Image</string>
+    <string name="image_format">Image Format</string>
+    <string name="ask_for_passcode_everytime">Ask for Passcode Every Time</string>
+    <string name="image_format_title">Resulted Image Format:</string>
+    <string name="change_main_passcode">Change Main Passcode</string>
+    <string name="set_up_a_main_passcode">Set up a main passcode</string>
+    <string name="please_confirm_your_old_passcode">Please confirm your old passcode</string>
+    <string name="please_provide_your_passcode">Please provide your passcode for verification</string>
+    <string name="verify_yourself_agent">Verify Yourself, Agent</string>
+    <string name="hello">Hello</string>
+    <string name="verify">Verify</string>
+    <string name="hello_agent_title">Hello Agent:</string>
+    <string name="strengthen_your_security_agent">Strengthen Your Security, Agent</string>
+    <string name="use_main_passcode_when_skipping">Use Main Passcode By Default</string>
+    <string name="session_expires_title">Session Expires In:</string>
+    <string name="clear_session">Clear Session Now</string>
+    <string name="empty">Empty</string>
+    <string name="vault">Vault</string>
+    <string name="ntk">Gallery</string>
+    <string name="more">More</string>
+    <string name="nice_to_keep">Nice To Keep</string>
+    <string name="action_options">Options</string>
+    <string name="use_main_code">Use Main Passcode</string>
+    <string name="looking_for_something">🔎 Looking for something?</string>
+    <string name="embedded_file">Embedded Item</string>
+    <string name="working_on_it">Working on it</string>
+    <string name="content">Content</string>
+    <string name="limitation">Limitation</string>
+    <string name="hilap_member">HiLAP Club Member</string>
+    <string name="non_member">Non Member</string>
+    <string name="memory_limit">Memory Limit</string>
+    <string name="cover_image_max_resolution">CI Maximum Resolution</string>
+    <string name="limits">Limits</string>
+    <string name="splitting_point">Secret File Splitting Point (MB)</string>
+    <string name="ask_when_file_needs_splitting">Ask When File Needs Splitting</string>
+
+    <string name="confirmation">Confirmation</string>
+    <string name="message_file_splitting">The secret file is very big, and it will be saved into different cover images by splitting both the cover image and the secret file. Are you sure?</string>
+    <string name="data_processing">Data Processing</string>
+
+    <string name="channel_name">Data Processing Progress</string>
+    <string name="channel_description">This channel shows the progress of data processing.</string>
+    <string name="task_canceled">Task canceled</string>
+    <string name="images">Images</string>
+    <string name="supported_file_size">Supported File Size</string>
+    <string name="file_splitting_support">File Splitting Support</string>
+    <string name="single_file_size_limit">Max. Secret Size Per Image</string>
+    <string name="must_be_numeric">The splitting point must be a number</string>
+    <string name="must_not_greater_than">The value must not be greater than</string>
+    <string name="must_not_less_than">The value must not be less than</string>
+    <string name="reveal_split">Reveal Split</string>
+    <string name="reveal_single">Reveal Single</string>
+    <string name="create_zip_file_after_splitting">Create a Zip File for the Split</string>
+    <string name="message_needing_more_files">You need to select at least two images that contain the splits</string>
+    <string name="ask_for_passcode_on_startup">Ask for Passcode on App Startup</string>
+
+</resources>
