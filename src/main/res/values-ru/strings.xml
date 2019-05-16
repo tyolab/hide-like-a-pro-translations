@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2019. TYONLINE TECHNOLOGY PTY. LTD. (TYOLAB)
+  ~
+  -->
+
+<resources>
+    <string name="prompt_email"> Электронная почта </string>
+        <string name="prompt_password"> Пароль </string>
+        <string name="action_sign_in"> Войдите или зарегистрируйтесь </string>
+        <string name="action_sign_in_short"> Войти </string>
+        <string name="error_invalid_email"> Этот адрес электронной почты недействителен </string>
+        <string name="error_invalid_password"> Этот пароль слишком короткий </string> усы
+        <string name="error_incorrect_password"> Ваш пароль неверный </string>
+        <string name="error_field_required"> Это поле обязательно для заполнения </string>
+        <string name="permission_rationale"> Разрешения для контактов необходимы для предоставления электронной почты
+            пополнения </string>
+        <string name="log_in"> Войти </string>
+
+        <string name="steghide"> Steghide </string>
+        <string name="steghide_where_to_hide"> Скрыть секрет в этом изображении </string>
+        <string name="steghide_what_to_hide"> Скрыть этот файл как секретный </string>
+        <string name="steghide_reveal"> раскрыть секрет </string>
+        <string name="decrypting"> расшифровка </string>
+        <string name="encrypting"> Encrypting </string>
+        <string name="detecting"> Detecting </string>
+        <string name="hiding"> Hiding </string>
+        <string name="secret"> Secret </string>
+        <string name="choose_file"> Выберите файл / изображение </string>
+        <string name="where_your_secret_to_be_hidden_to"> Где будет скрыт ваш секрет </string>
+        <string name="pick_your_secret_file"> Выберите свой секретный файл </string>
+        <string name="open_file_manager"> Перейти в секретную папку </string>
+        <string name="copy_file_to_unsafe_zone"> Копировать секрет в небезопасную зону </string>
+        <string name="go_to_unsafe_zone"> Копировать секрет в небезопасную зону </string>
+        <string name="open_gallery_app"> Выберите изображение обложки </string>
+        <string name="the_image_where_you_wanna_hide_your_secret_to"> Ниже будет показано изображение, для которого вы хотите скрыть свой секрет: </string>
+        <string name="choose_what_do_you_want_to_do"> Выберите операцию </string>
+        <string name="hint_now_you_need_to_choose_what_to_hide"> Ваше изображение обложки </string>
+        <string name="hint_now_you_need_to_choose_where_to_hide"> Теперь выберите, где спрятаться </string>
+        <string name="export"> Export </string>
+        <string name="hide_another_one"> Скрыть другой секрет </string>
+        <string name="share"> Share </string>
+        <string name="oops_something_wrong"> К сожалению, что-то не так </string>
+        <string name="error_export"> К сожалению, что-то не так. \\ n Извините, эта операция идет не так, перейдите во внешнее хранилище для усиленной фотографии. </string>
+        <string name="open_amazing_photos"> Перейдите в папку HiLAP </string>
+        <string name="no_secret_found"> ​​Секрет не найден </string>
+        <string name="open_folder"> Открытая папка </string>
+        <string name="passcode"> код доступа </string>
+
+        <string name="security"> Безопасность </string>
+        <string name="passcode_tip"> Введите 6-значный код доступа </string>
+        <string name="skip"> Skip </string>
+        <string name="question_passcode_protected"> Защищен ли этот пароль паролем изображения? </string>
+        <string name="question_passcode_security"> Хотите установить пароль для безопасности? </string>
+        <string name="job_done"> Задание выполнено </string>
+        <string name="steghide_success"> Ваш секрет был успешно спрятан внутри изображения, как показано ниже. </string>
+        <string name="steghide_failed"> К сожалению, что-то пошло не так, попробуйте еще раз или отправьте электронное письмо нашему разработчику. </string>
+        <string name="error_title"> Ошибка </string>
+        <string name="error_file_too_big"> Ваш секретный файл слишком большой. Убедитесь, что размер вашего файла меньше% d байтов. </string>
+
+        <!-- ЧЛЕН -->
+        <string name="toast_already_member"> Большое спасибо. Вы уже зарегистрированы. </string>
+
+        <!-- ПОКУПКА-->
+        <string name="alert_already_purchased"> Элемент уже куплен </string>
+
+        <string name="error_no_skus"> Мы не нашли SKU для отображения ... Проверьте ваш интернет
+        и убедитесь, что ваша консоль разработчика Google была правильно настроена. </string>
+        <string name="error_billing_unavailable"> Тарификация недоступна. Убедитесь, что ваше приложение Google Play
+        настроен правильно </string>
+        <string name="error_billing_default"> Тарификация недоступна. Пожалуйста, проверьте ваше устройство. </string>
+
+        <string name="hilap_club_shop"> Магазин HiLAP Club </string>
+        <string name="button_purchase"> Перейти в магазин HiLAP Club </string>
+        <string name="button_buy"> Присоединиться </string>
+        <string name="button_own"> Переключатель </string>
+        <string name="button_update"> Обновить </string>
+        <string name="button_change"> Изменить </string>
+        <string name="button_lifetime_member"> Пожизненный член </string>
+        <string name="lifetime_member_desc"> Агент, ваш статус действителен, пожалуйста, продолжайте свою миссию и будьте в безопасности. </string>
+
+        <string name="header_inapp"> Единовременный членский взнос </string>
+        <string name="header_subscriptions"> Подписки для участников </string>
+
+        <string name="content_description_app_loading_image"> изображение загрузки приложения </string>
+        <string name="content_desc_free_vs_premium_indicator"> Бесплатный или премиум-индикатор изображения</string>
+
+        <!-- ALERT DIALOG-->
+        <string name="error"> Ошибка</string>
+
+        <string name="message_file_too_big"> Ваш секретный файл слишком велик. Убедитесь, что размер файла не превышает 8 КБ.</string>
+        <string name="message_error_steghide"> Что-то не так с этой операцией. Пожалуйста, попробуйте использовать меньшее изображение или файл меньшего размера, чтобы скрыть.</string>
+        <string name="message_error_reveal"> К сожалению, что-то не так. Мы не можем восстановить секрет для вас.</string>
+        <string name="message_error_export"> Что-то не так с этой операцией. Пожалуйста, перейдите во внешнее хранилище для фотографий Stego.</string>
+        <string name="message_membership_required"> Чтобы скрыть файл этого размера, требуется действительная подписка на членство. Хотели бы вы стать участником сейчас?</string>
+        <string name="title_membership_required"> Требуется членство</string>
+        <string name="enrol"> Стать участником</string>
+        <string name="hilap_club"> Магазин HiLAP Club</string>
+        <string name="subscribed"> подписка</string>
+        <string name="button_upgrade"> Обновить</string>
+        <string name="one"> 1</string>
+        <string name="step_one"> Шаг первый</string>
+        <string name="two"> 2</string>
+        <string name="step_two"> Шаг второй</string>
+        <string name="toast_in_progress"> Данные обрабатываются, для завершения может потребоваться некоторое время. Пожалуйста, не стесняйтесь использовать другие приложения.</string>
+        <string name="or_input_text_below"> Или поместите текст ниже</string>
+        <string name="operations"> Операции</string>
+        <string name="about_me"> О себе</string>
+        <string name="anonymous"> Anonymous</string>
+        <string name="agent"> Agent</string>
+        <string name="name"> Name</string>
+        <string name="choose_an_operation"> Выберите операцию</string>
+        <string name="id"> ID</string>
+        <string name="level"> Level</string>
+        <string name="experience"> Experience</string>
+        <string name="special_agent"> Специальный агент</string>
+        <string name="reveal"> раскрыть</string>
+        <string name="clear_secret_file"> Очистить его</string>
+        <string name="set_main_passcode"> Установить основной пароль</string>
+        <string name="image"> Изображение</string>
+        <string name="image_format"> Формат изображения</string>
+        <string name="ask_for_passcode_everytime"> Запросить пароль каждый раз</string>
+        <string name="image_format_title"> Формат результирующего изображения:</string>
+        <string name="change_main_passcode"> Изменить основной пароль</string>
+        <string name="set_up_a_main_passcode"> Настройка основного пароля</string>
+        <string name="please_confirm_your_old_passcode"> Пожалуйста, подтвердите свой старый пароль</string>
+        <string name="please_provide_your_passcode"> Пожалуйста, укажите свой пароль для проверки</string>
+        <string name="verify_yourself_agent"> Подтвердите себя, агент</string>
+        <string name="hello"> Hello</string>
+        <string name="verify"> Verify</string>
+        <string name="hello_agent_title"> Агент Hello:</string>
+        <string name="strengthen_your_security_agent"> Усильте свою безопасность, агент</string>
+        <string name="use_main_passcode_when_skipping"> Использовать основной пароль по умолчанию</string>
+        <string name="session_expires_title"> Сессия истекает в:</string>
+        <string name="clear_session"> Очистить сеанс сейчас</string>
+        <string name="empty"> Пусто</string>
+        <string name="vault"> хранилище</string>
+        <string name="ntk"> Галерея</string>
+        <string name="more"> More</string>
+        <string name="nice_to_keep"> Приятно хранить</string>
+        <string name="action_options"> Параметры</string>
+        <string name="use_main_code"> Использовать основной пароль</string>
+        <string name="looking_for_something"> 🔎 Ищете что-то?</string>
+        <string name="embedded_file"> Встроенный элемент</string>
+        <string name="working_on_it"> Работаем над этим</string>
+        <string name="content"> Content</string>
+        <string name="limitation"> Ограничение</string>
+        <string name="hilap_member"> Член клуба HiLAP</string>
+        <string name="non_member"> Не член</string>
+        <string name="memory_limit"> Ограничение памяти</string>
+        <string name="cover_image_max_resolution"> Максимальное разрешение CI</string>
+        <string name="limits"> Limits</string>
+        <string name="splitting_point"> Точка разделения секретного файла (МБ)</string>
+        <string name="ask_when_file_needs_splitting"> Спросить, когда нужно разделить файл</string>
+
+        <string name="confirmation"> подтверждение</string>
+        <string name="message_file_splitting"> Секретный файл очень большой, и он будет сохранен в различных изображениях обложки, разделив изображение обложки и секретный файл. Вы уверены?</string>
+        <string name="data_processing"> Обработка данных</string>
+
+        <string name="channel_name"> Ход обработки данных</string>
+        <string name="channel_description"> Этот канал показывает ход обработки данных.</string>
+        <string name="task_canceled"> Задача отменена</string>
+        <string name="images"> Изображения</string>
+        <string name="supported_file_size"> Поддерживаемый размер файла</string>
+        <string name="file_splitting_support"> Поддержка разделения файлов</string>
+         <string name="single_file_size_limit"> Макс. Секретный размер на изображение</string>
+         <string name="must_be_numeric"> Точка разделения должна быть числом</string>
+         <string name="must_not_greater_than"> Значение не должно превышать</string>
+         <string name="must_not_less_than"> Значение не должно быть меньше</string>
+         <string name="reveal_split"> Показать разделение</string>
+         <string name="reveal_single"> Показать один</string>
+         <string name="create_zip_file_after_splitting"> Создать Zip-файл для разделения</string>
+         <string name="message_needing_more_files"> Вам нужно выбрать как минимум два изображения, которые содержат разбиения</string>
+         <string name="ask_for_passcode_on_startup"> Запрос пароля при запуске приложения</string>
+       
+</resources>
