@@ -95,6 +95,7 @@
     <string name="message_error_reveal">Oops, something is not right. We can\\\'t recover the secret for you.</string>
     <string name="message_error_export">There is something wrong with this operation. Please go to external storage for the stego photo(s).</string>
     <string name="message_membership_required">To hide the file of this size, a valid membership subscription is required. Would you like to become a member now?</string>
+    <string name="message_membership_required_for_file_splitting">To set a splitting point, a valid membership subscription is required. Would you like to become a member now?</string>
     <string name="title_membership_required">Membership Required</string>
     <string name="enrol">Become a Member</string>
     <string name="hilap_club">The HiLAP Club Shop</string>
