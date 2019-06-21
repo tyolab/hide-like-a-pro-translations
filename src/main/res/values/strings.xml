@@ -176,4 +176,25 @@
     <string name="message_needing_more_files">You need to select at least two images that contain the splits</string>
     <string name="ask_for_passcode_on_startup">Ask for Passcode on App Startup</string>
 
+    <string name="not_yet_member_headsup">Not yet a member, click here to join now</string>
+    <string name="total">Total:</string>
+    <string name="tasks">Tasks</string>
+    <string name="hide">Hide</string>
+    <string name="gallery">Gallery</string>
+    <string name="album">Album</string>
+    <string name="unsafe">Unsafe</string>
+    <string name="file_s">File(s)</string>
+    <string name="unsafe_zone">Unsafe Zone</string>
+    <string name="message_needing_verification">Please verify yourself, agent.</string>
+    <string name="access_denied">Access Denied</string>
+    <string name="pick_others">Pick Others</string>
+    <string name="clear">Clear</string>
+    <string name="steganography_limits">Steganography Limits</string>
+    <string name="enable_ad_to_increase_free_quota">To increase the supported file size for nonmember to 12MB, you can do so by enabling Ad</string>
+    <string name="enable_ad">Enable Ad</string>
+    <string name="when_encrypting_and_decrypting">When \"encrypting\" and \"decrypting\"</string>
+    <string name="when_encrypting_and_decrypting2" >When \"encrypting\" and \"decrypting\" (Sign-in Required)</string>
+    <string name="paid">Paid</string>
+    <string name="three">3</string>
+    <string name="step_three">Settings (Optional)</string>
 </resources>
