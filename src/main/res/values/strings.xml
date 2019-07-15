@@ -198,4 +198,7 @@
     <string name="three">3</string>
     <string name="step_three">Settings (Optional)</string>
     <string name="failed_to_load_file">Failed to load file</string>
+
+    <string name="warning">Warning</string>
+    <string name="message_confirm_to_clear">Are you sure that you want to clear all these files?</string>
 </resources>
