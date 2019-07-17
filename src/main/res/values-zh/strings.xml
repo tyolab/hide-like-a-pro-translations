@@ -124,7 +124,7 @@
     <string name="limitation">限制</string>
     <string name="limits">限制</string>
     <string name="log_in">登录</string>
-    <string name="looking_for_something">在寻找什么吗？</string>
+    <string name="looking_for_something">🔎 在寻找什么吗？</string>
     <string name="memory_limit">内存限制</string>
     <string name="message_file_splitting">你的秘密文件太大了。 请确保文件大小小于8kb。</string>
     <string name="message_needing_more_files">请选择至少两幅图片</string>

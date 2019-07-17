@@ -126,7 +126,7 @@
     <string name="limitation">限制</string>
     <string name="limits">限制</string>
     <string name="log_in">登錄</string>
-    <string name="looking_for_something">在尋找什麼嗎？ </string>
+    <string name="looking_for_something">🔎 在尋找什麼嗎？ </string>
     <string name="memory_limit">內存限制</string>
     <string name="message_file_splitting">你的秘密文件太大了。請確保文件大小小於8kb。 </string>
     <string name="message_needing_more_files">請選擇至少兩幅圖片</string>
