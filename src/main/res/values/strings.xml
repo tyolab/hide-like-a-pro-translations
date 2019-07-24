@@ -32,8 +32,9 @@
     <string name="where_your_secret_to_be_hidden_to">Where your secret to be hidden to</string>
     <string name="pick_your_secret_file">Pick your secret file</string>
     <string name="open_file_manager">Go to secret folder</string>
-    <string name="copy_file_to_unsafe_zone">Copy Secret to Unsafe-Zone</string>
-    <string name="go_to_unsafe_zone">Copy Secret to Unsafe-Zone</string>
+    <string name="copy_file_to_unsafe_zone">Copy File(s) to Unsafe-Zone</string>
+    <string name="copy_files_to_uz">Copy File(s) to U.Z.</string>
+    <string name="go_to_unsafe_zone">Go to Unsafe-Zone</string>
     <string name="open_gallery_app">Pick a cover image</string>
     <string name="the_image_where_you_wanna_hide_your_secret_to">Below will show the image that you want to hide your secret to:</string>
     <string name="choose_what_do_you_want_to_do">Choose an operation</string>
@@ -202,4 +203,21 @@
     <string name="warning">Warning</string>
     <string name="message_confirm_to_clear">Are you sure that you want to clear all these files?</string>
     <string name="delete" />
+    <string name="importing">Importing</string>
+    <string name="copying">Copying</string>
+    <string name="rename">Rename</string>
+
+    <string name="open">Open</string>
+    <string name="goto_safe">Go to Safe</string>
+    <string name="safe">Safe</string>
+    <string name="import_from_camera">Import from camera</string>
+    <string name="import_from_files">Import from files</string>
+    <string name="create_a_new_folder">Create a new folder</string>
+    <string name="new_folder">New folder</string>
+    <string name="failed_to_receive_shared_content">Sorry, something wrong. Please choose one file a time or a different App to share.</string>
+    <string name="create_a_folder">Create a folder</string>
+    <string name="file_or_foler_exists">File or folder of same name exists already.</string>
+    <string name="failed_to_create_folder">Failed to create folder</string>
+    <string name="copy">Copy</string>
+    <string name="files_copied">File(s) copied</string>
 </resources>
