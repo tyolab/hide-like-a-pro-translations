@@ -201,4 +201,5 @@
 
     <string name="warning">Warning</string>
     <string name="message_confirm_to_clear">Are you sure that you want to clear all these files?</string>
+    <string name="delete" />
 </resources>
