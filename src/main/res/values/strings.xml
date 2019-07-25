@@ -210,7 +210,7 @@
     <string name="open">Open</string>
     <string name="goto_safe">Go to Safe</string>
     <string name="safe">Safe</string>
-    <string name="import_from_camera">Import from camera</string>
+    <string name="import_from_camera">Import from camera (experimental)</string>
     <string name="import_from_files">Import from files</string>
     <string name="create_a_new_folder">Create a new folder</string>
     <string name="new_folder">New folder</string>
