@@ -191,7 +191,7 @@
     <string name="pick_others">Pick Others</string>
     <string name="clear">Clear</string>
     <string name="steganography_limits">Steganography Limits</string>
-    <string name="enable_ad_to_increase_free_quota">To increase the supported file size for nonmember to 12MB, you can do so by enabling Ad</string>
+    <string name="enable_ad_to_increase_free_quota">To increase the supported file size for non member to 12MB, you can do so by enabling Ad</string>
     <string name="enable_ad">Enable Ad</string>
     <string name="when_encrypting_and_decrypting">When \"encrypting\" and \"decrypting\"</string>
     <string name="when_encrypting_and_decrypting2" >When \"encrypting\" and \"decrypting\" (Sign-in Required)</string>
@@ -201,8 +201,8 @@
     <string name="failed_to_load_file">Failed to load file</string>
 
     <string name="warning">Warning</string>
-    <string name="message_confirm_to_clear">Are you sure that you want to clear all these files?</string>
-    <string name="delete" />
+    <string name="message_confirm_to_clear">Are you sure that you want to delete all these files?</string>
+    <string name="delete" >Delete</string>
     <string name="importing">Importing</string>
     <string name="copying">Copying</string>
     <string name="rename">Rename</string>
@@ -221,4 +221,5 @@
     <string name="copy">Copy</string>
     <string name="files_copied">File(s) copied</string>
     <string name="collections">Collections</string>
+    <string name="hilap" translatable="false">HiLAP</string>
 </resources>
