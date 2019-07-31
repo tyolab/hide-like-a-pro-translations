@@ -94,7 +94,7 @@
     <string name="message_file_too_big">Your secret file is too big. Please make sure the size of the file is less than 8kb.</string>
     <string name="message_error_steghide">There is something wrong with this operation. Please try to use a smaller image or a smaller file to hide.</string>
     <string name="message_error_reveal">Oops, something is not right. We can\\\'t recover the secret for you.</string>
-    <string name="message_error_export">There is something wrong with this operation. Please go to external storage for the stego photo(s).</string>
+    <string name="message_error_export">Something was wrong. Please go to the correspondent HiLap folder for the export.</string>
     <string name="message_membership_required">To hide the file of this size, a valid membership subscription is required. Would you like to become a member now?</string>
     <string name="message_membership_required_for_file_splitting">To set a splitting point, a valid membership subscription is required. Would you like to become a member now?</string>
     <string name="title_membership_required">Membership Required</string>

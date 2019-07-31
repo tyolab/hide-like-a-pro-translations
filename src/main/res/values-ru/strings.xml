@@ -172,5 +172,8 @@
          <string name="create_zip_file_after_splitting"> Создать Zip-файл для разделения</string>
          <string name="message_needing_more_files"> Вам нужно выбрать как минимум два изображения, которые содержат разбиения</string>
          <string name="ask_for_passcode_on_startup"> Запрос пароля при запуске приложения</string>
+    <string name="message_membership_required_for_file_splitting">Чтобы установить точку разделения, требуется действительная подписка на членство. Хотели бы вы стать членом сейчас?</string>
+    <string name="message_needing_verification">Пожалуйста, подтвердите себя, агент.</string>
+    <string name="new_folder">Новая папка</string>
        
 </resources>
