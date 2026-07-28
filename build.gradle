@@ -1,6 +1,8 @@
 apply plugin: 'com.android.library'
 
 android {
+    buildFeatures { buildConfig true }
+    namespace 'au.com.tyo.hilap.translations'
     compileSdkVersion 28
 
     defaultConfig {
